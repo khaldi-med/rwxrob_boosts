@@ -11,7 +11,6 @@ permission, - remove, r read, w write,x execute.
 * dpkg -L packageNameWill list out the ﬁles installed and path details for a given package on Debian.
 * dpkg -l | grep -i <edit>Return all .deb installed packages with <edit> irrespective of cases.
 * less /var/lib/dpkg/available Return descriptions of all available packages.
-* whatis vimList a one-line description of vim.
 
 ```
 Netcat is a tool that can help you read or write data over the internet and is
@@ -20,44 +19,43 @@ called “The Swiss Army Knife of Information Security” by its fans.
 * “sudo” or “SuperUserDO”.
 * To link files, use `ln -s $PWD/file (the source) $HOME/file (the dist).
  
-*  
 
 
+-------------------|tumux|-----------------------------------------
+trl-b ?
+Ctrl-b c
+Ctrl-b n
+Ctrl-b p
+Ctrl-b 0
+Ctrl-b w
+Ctrl-b ,
+Description
+Show the list of key bindings (i.e., help)
+Create a new window
+Go to next window
+Go to previous window
+Go to window 0. Numbers 1-9 are similar.
+Show window list. The status bar lists windows, too.
+Rename the current window
 
+Ctrl-b "
+Ctrl-b %
+Ctrl-b arrow
+Ctrl-b Ctrl-arrow
+Ctrl-b Alt-arrow
+Ctrl-b x
+Description
+Split pane horizontally
+Split pane vertically
+Move to adjoining pane
+Resize pane by 1 character
+Resize pane by 5 characters
+Destroy current pane
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+------------------------------------------------|user|------------------------------------------------------
+* su adduser username
+* su deluser username
+* whoami
+* su - username (change bttwin users)
+* exit 
 
