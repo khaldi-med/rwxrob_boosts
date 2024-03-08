@@ -59,3 +59,11 @@ Destroy current pane
 * su - username (change bttwin users)
 * exit 
 
+```
+watch: repeat a command in certain intervals
+&& tai ;: chain several commands
+alias: define an alias for a command. For example you can define a shorter version for a long and complicated command.
+&: ending a command with this will make sure the command line will not be locked as the process will be moved to the background
+history: view your command history
+Ctrl + r: find commands you have run previously
+```
