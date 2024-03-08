@@ -18,9 +18,15 @@ called “The Swiss Army Knife of Information Security” by its fans.
 ```
 * “sudo” or “SuperUserDO”.
 * To link files, use `ln -s $PWD/file (the source) $HOME/file (the dist).
- 
 
 
+-------------------|Docker|------------------------------------------------------------------------------
+* docker run -it ubuntu
+* docker ps -a 
+* docker start "containername"
+* docker attach "containername"
+* exit
+* ctrl +pq to dettach container without stoping it.
 -------------------|tumux|-----------------------------------------
 trl-b ?
 Ctrl-b c

@@ -16,4 +16,6 @@ As I have learn from prevuies sources how to use Vim. This file is my notes to u
 * set number
 * colorscheme pablo
 * syntax enable
-* 
+
+* to practice vim go to [this](http://vimgenius.com)
+
