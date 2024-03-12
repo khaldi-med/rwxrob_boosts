@@ -27,6 +27,10 @@ called “The Swiss Army Knife of Information Security” by its fans.
 * docker attach "containername"
 * exit
 * ctrl +pq to dettach container without stoping it.
+* docker exec -it myimage 
+* docker rm <id container>
+* docker container prune
+* 
 -------------------|tumux|-----------------------------------------
 trl-b ?
 Ctrl-b c
