@@ -31,44 +31,15 @@ called “The Swiss Army Knife of Information Security” by its fans.
 * docker rm <id container>
 * docker container prune
 * 
--------------------|tumux|-----------------------------------------
-trl-b ?
-Ctrl-b c
-Ctrl-b n
-Ctrl-b p
-Ctrl-b 0
-Ctrl-b w
-Ctrl-b ,
-Description
-Show the list of key bindings (i.e., help)
-Create a new window
-Go to next window
-Go to previous window
-Go to window 0. Numbers 1-9 are similar.
-Show window list. The status bar lists windows, too.
-Rename the current window
-
-Ctrl-b "
-Ctrl-b %
-Ctrl-b arrow
-Ctrl-b Ctrl-arrow
-Ctrl-b Alt-arrow
-Ctrl-b x
-Description
-Split pane horizontally
-Split pane vertically
-Move to adjoining pane
-Resize pane by 1 character
-Resize pane by 5 characters
-Destroy current pane
-
+* 
 ------------------------------------------------|user|------------------------------------------------------
 * su adduser username
 * su deluser username
 * whoami
 * su - username (change bttwin users)
 * exit 
-
+* apropos <key> 
+* 
 ```
 watch: repeat a command in certain intervals
 && tai ;: chain several commands
@@ -77,3 +48,26 @@ alias: define an alias for a command. For example you can define a shorter versi
 history: view your command history
 Ctrl + r: find commands you have run previously
 ```
+* 
+```
+### Command Description
+
+whoami	Displays current username.
+id	Returns users identity
+hostname	Sets or prints the name of current host system.
+uname	Prints basic information about the operating system name and system hardware.
+pwd	Returns working directory name.
+ifconfig	The ifconfig utility is used to assign or to view an address to a network interface and/or configure network interface parameters.
+ip	Ip is a utility to show or manipulate routing, network devices, interfaces and tunnels.
+netstat	Shows network status.
+ss	Another utility to investigate sockets.
+ps	Shows process status.
+who	Displays who is logged in.
+env	Prints environment or sets and executes command.
+lsblk	Lists block devices.
+lsusb	Lists USB devices
+lsof	Lists opened files.
+lspci	Lists PCI devices.
+> $ ssh [username]@[IP address]
+```
+
