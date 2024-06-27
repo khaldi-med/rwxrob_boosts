@@ -20,7 +20,7 @@ called “The Swiss Army Knife of Information Security” by its fans.
 * To link files, use `ln -s $PWD/file (the source) $HOME/file (the dist).`
 
 
--------------------|Docker|------------------------------------------------------------------------------
+### |Docker|
 
 * docker run -it ubuntu
 * docker ps -a 
@@ -32,7 +32,7 @@ called “The Swiss Army Knife of Information Security” by its fans.
 * docker rm <id container>
 * docker container prune
 
-------------------------------------------------|user|------------------------------------------------------
+--- 
 
 * su adduser username
 * su deluser username
@@ -72,5 +72,24 @@ lsof	Lists opened files.
 lspci	Lists PCI devices.
 
 > $ ssh [username]@[IP address]
+
+* Inside the script, the $1 variable references the first argument in the command line, $2 the second argument and so forth. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
