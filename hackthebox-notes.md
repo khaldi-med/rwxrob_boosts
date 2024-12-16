@@ -68,6 +68,5 @@ Besides assigning direct user and group permissions, we can also configure speci
 
 
 * **apt list --installed**
-* 
 
 
