@@ -21,8 +21,6 @@
 
 > cat *<< EOF >** stream.txt --> type EOF at end to stop stream.
 
-* 
-
 * The command locate offers us a quicker way to search through the system. 
 
 * We can also use the double lower-than characters (<<) to add our standard input through a stream. We can use the so-called End-Of-File (EOF) function of a Linux system file: 
