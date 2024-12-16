@@ -91,6 +91,9 @@ called “The Swiss Army Knife of Information Security” by its fans.
 - The **uptime** command displays the time from when a system started running. 
 
 - The last command displays the history of user log in and log out, along with the actual time and date.
+
+- cmd for help: **info/apropos/whatis/**
+
 > ssh [username]@[IP address]
 
 * Inside the script, the $1 variable references the first argument in the command line, $2 the second argument and so forth. 
