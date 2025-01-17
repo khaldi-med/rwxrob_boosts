@@ -66,7 +66,6 @@ Besides assigning direct user and group permissions, we can also configure speci
 
 * The main difference between scripting and programming languages is that we don't need to compile the code to execute the scripting language, as opposed to programming languages.
 
-
 * **apt list --installed**
 
 

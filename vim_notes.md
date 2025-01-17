@@ -17,7 +17,8 @@
 	-	tar –zcvf example.tar.gz directory (Archive	and	compress)
 	-	tar –zxvf example.tar.gz (Decompress	and	unarchive)
 
-
+### tmux config
+mouse scrolling : **setw -g mouse on**
 
 
 
