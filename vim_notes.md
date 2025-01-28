@@ -17,18 +17,8 @@
 	-	tar –zcvf example.tar.gz directory (Archive	and	compress)
 	-	tar –zxvf example.tar.gz (Decompress	and	unarchive)
 
+
 ### tmux config
-mouse scrolling : **setw -g mouse on**
 
-
-
-
-
-<-- .vimrc conf-->
-
-* set number
-* colorscheme pablo
-* syntax enable
-
-* to practice vim go to [this](http://vimgenius.com)
+* mouse scrolling : **setw -g mouse on**
 
